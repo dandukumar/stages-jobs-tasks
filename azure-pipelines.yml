@@ -57,4 +57,3 @@ stages:
         steps:
           - script: echo deploying backend app to PROD
             displayName: deploy backend app to PROD
-            display name: jus for Testing
